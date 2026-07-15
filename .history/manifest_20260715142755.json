@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "HypothesisSync",
+  "version": "0.1.1",
+  "description": "Sync Hypothesis annotations into Zotero notes",
+  "applications": {
+    "zotero": {
+      "id": "hypothesis-sync@personal.zotero",
+      "strict_min_version": "7.0",
+      "strict_max_version": "9.*"
+    }
+  }
+}
+
